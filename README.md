@@ -1,29 +1,42 @@
-# Project Management System
+# Product Management System
 
-This is a simple project management system built with React for the frontend and Spring Boot for the backend.
+This is a web-based Product Management System developed using React for the frontend and Spring Boot for the backend REST API.
 
 ## Features
 
-- User authentication and authorization
-- Project creation and management
-- Task tracking and assignment
-- Real-time collaboration
-- Responsive design for various devices
+- **Product Listing:** View a list of products with essential details.
+- **Product Details:** View detailed information about a specific product.
+- **Add New Product:** Add a new product to the system.
+- **Update Product:** Modify existing product information.
+- **Delete Product:** Remove a product from the system.
+
+## Technologies Used
+
+- **Frontend:**
+  - React
+  - React Router for navigation
+  - Axios for API communication
+  - State management (e.g., States)
+
+- **Backend:**
+  - Spring Boot
+  - Spring Data JPA for database interaction
+  - RESTful API design principles
+
+- **Database:**
+  - [Your Database Choice] (MySQL)
 
 ## Getting Started
 
 ### Prerequisites
 
-Make sure you have the following tools installed on your machine:
-
-- Node.js and npm (Node Package Manager)
-- Java Development Kit (JDK)
-- Apache Maven
-- Spring Boot Setup
+- Node.js and npm installed for the frontend
+- Java and Maven installed for the backend
+- [Database (Mysql)] installed and configured
 
 ### Installation
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/VaibhavDeshmukh12/ProductFrontEnd.git
+   ```bash
+   git clone 
