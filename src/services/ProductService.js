@@ -1,6 +1,7 @@
 import axios from "axios"
 
-const REST_API = "http://localhost:9090"
+const REST_API = "https://product-backend-production-dadb.up.railway.app/"
+// const REST_API = "http://localhost:9090"
 
 class ProductService{
 
